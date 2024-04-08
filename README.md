@@ -1,6 +1,7 @@
+<img src="https://images.unsplash.com/photo-1712246404769-132b7d49d235?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Landscape">
 <h4 align="center"><samp> 👋🏾 Mobile developer here! Welcome to my GitHub! Passionate about creating impactful mobile apps and exploring new technologies. </samp></h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocpd-1250&label=Profile%20views&color=0e75b6&style=flat" alt="huyparody" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocpd-1250&label=Profile%20views&color=0e75b6&style=flat" alt="ngocpd" /> </p>
 
 
 - 📱 I’m currently working at [Sun* Inc](https://sun-asterisk.vn/)
